@@ -1,0 +1,27 @@
+{
+  "token": "<INSERT_DISCORD_TOKEN_HERE>",
+  "channel": 0,
+  "captcha_solver": "True",
+  "auto-buy": "True",
+  "auto-egg": "True",
+  "timer": 8.4,
+  "timer_fish": 25,
+  "timeout": 3,
+  "delay": 0.5,
+  "rarities": {
+    "Common": "pb",
+    "Uncommon": "pb",
+    "Super Rare": "ub",
+    "Rare": "gb",
+    "Shiny Event": "mb",
+    "Shiny Full-odds": "mb",
+    "Shiny": "prb",
+    "Legendary": "mb"
+  },
+  "auto_buy": {
+    "Pokeballs": 200,
+    "Greatballs": 100,
+    "Ultraballs": 25,
+    "Masterballs": 1
+  }
+}
